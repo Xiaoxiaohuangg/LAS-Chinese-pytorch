@@ -1,22 +1,22 @@
 # Listen, Attend and Spell - PyTorch Implementation
                
 My first project of Speech recognition. 
-This is a PyTorch implementation of[ Listen, Attend and Spell](URL 'https://arxiv.org/abs/1508.01211v2') (LAS) and based on [Alexander-H-Liu](URL 'https://github.com/Alexander-H-Liu/Listen-Attend-and-Spell-Pytorch')' repository .
+This is a PyTorch implementation of[ Listen, Attend and Spell]('https://arxiv.org/abs/1508.01211v2') (LAS) and based on [Alexander-H-Liu]('https://github.com/Alexander-H-Liu/Listen-Attend-and-Spell-Pytorch')' repository .
 
 
 
 ## Requirements
 * Python 3
 * PyTorch 1.0.0
-* [python\_speech\_features](URL ' https://github.com/jameslyons/python_speech_features')
+* [python\_speech\_features]('https://github.com/jameslyons/python_speech_features')
 * editdistance
 
 ## Chinese Mandarin corpus
-* [THCHS-30](URL 'http://www.openslr.org/18/')
+* [THCHS-30]('http://www.openslr.org/18/')
 
-* [Aishell](URL 'http://www.openslr.org/33/')
-* [Primewords Chinese Corpus Set 1](URL 'http://www.openslr.org/47/')
-* [Free ST Chinese Mandarin Corpus](URL 'http://www.openslr.org/38/')
+* [Aishell]('http://www.openslr.org/33/')
+* [Primewords Chinese Corpus Set 1]('http://www.openslr.org/47/')
+* [Free ST Chinese Mandarin Corpus]('http://www.openslr.org/38/')
 
 ## Pretrained models (not supported)
 
@@ -57,4 +57,4 @@ bash train.sh
 ### Evaluate on test split
 
 ## Acknowledgements
-Thanks the original [LAS](URL 'https://arxiv.org/abs/1508.01211v2'), [Alexander-H-Liu](URL 'https://github.com/Alexander-H-Liu/Listen-Attend-and-Spell-Pytorch') and awesome PyTorch team.
+Thanks the original [LAS]('https://arxiv.org/abs/1508.01211v2'), [Alexander-H-Liu]('https://github.com/Alexander-H-Liu/Listen-Attend-and-Spell-Pytorch') and awesome PyTorch team.
